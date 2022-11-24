@@ -5,3 +5,12 @@ body {
 .main-content {
     background-color: rgb(250, 249, 246);
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(173, 231, 146);
+    text-align: center;
+}
